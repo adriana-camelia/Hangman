@@ -1,2 +1,1 @@
-It's time to save hangman! 
-To play the game, please run the 'main' file. Enjoy!
+The game code can be found in the 'main' file. Good luck saving hangman!
